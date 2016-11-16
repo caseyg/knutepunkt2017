@@ -21,4 +21,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
+exclude: [node_modules, gulpfile.js]
 repository: caseyg/knutepunkt2017
