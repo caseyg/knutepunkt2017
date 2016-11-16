@@ -1,0 +1,25 @@
+{
+  "name": "knutepunkt2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseyg/knutepunkt2017.git"
+  },
+  "author": "@caseyg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caseyg/knutepunkt2017/issues"
+  },
+  "homepage": "https://github.com/caseyg/knutepunkt2017#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.6",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "lodash": "^4.17.1"
+  }
+}

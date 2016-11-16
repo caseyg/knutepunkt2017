@@ -1,0 +1,72 @@
+---
+---
+
+@import "pantone";
+
+body {
+  min-height: 100vh;
+//  margin-bottom: 100vh;
+//  color: #fff;
+
+  background: -moz-linear-gradient(-45deg, $serenity 0%, $rosequartz 100%);
+  background: -webkit-linear-gradient(-45deg, $serenity 0%, $rosequartz 100%);
+  background: linear-gradient(135deg, $serenity 0%, $rosequartz 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$serenity', endColorstr='$rosequartz',GradientType=1 );
+}
+
+h1 {
+  font-size: 10vw;
+  color: #808080!important;
+  letter-spacing: -2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #808080;
+  font-family: "Perpetua Titling MT";
+//  text-transform: uppercase;
+}
+
+nav {
+  color: #000;
+//  background-color: rgba(255, 255, 255, .15);
+  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(15px);
+}
+
+nav a {
+  color: #808080;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+h2 {
+  padding-top: 1em;
+  margin-top: 100vh;
+}
+
+.logo {
+  background-image: url(/img/knutepvnkt.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-blend-mode: darken;
+
+  display: block;
+  text-indent: -2000em;
+  overflow: hidden;
+}
+
+img {
+  mix-blend-mode: multiply;
+}
+
+img.header_image {
+  width: 100%;
+}
