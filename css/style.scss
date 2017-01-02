@@ -4,7 +4,8 @@
 @import "pantone";
 
 body {
-  min-height: 100vh;
+  min-height: 101vh;
+  padding-bottom:50vh;
 //  margin-bottom: 100vh;
 //  color: #fff;
 
@@ -31,11 +32,16 @@ h6 {
 //  text-transform: uppercase;
 }
 
+.lead {
+  font-family: Calluna;
+}
+
 nav {
   color: #000;
-//  background-color: rgba(255, 255, 255, .15);
+  background-color: rgba(255, 255, 255, .15);
   -webkit-backdrop-filter: blur(20px);
   backdrop-filter: blur(15px);
+  line-height: 1;
 }
 
 nav a {
@@ -46,9 +52,12 @@ nav a:hover {
   color: #fff;
 }
 
+nav li {
+  margin-top: .5em;
+}
+
 h2 {
   padding-top: 1em;
-  margin-top: 100vh;
 }
 
 .logo {
