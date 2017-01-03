@@ -15,22 +15,3 @@ KP2017 is the full circle 20th anniversary of our beloved Knutepunkt, all the wa
 ## History
 
 Knutepunkt was first organized in Norway in 1997, and celebrates it’s 20th anniversary in 2017. The Knutepunkt scene has been a driving force in establishing and developing the identity of larp in the Nordic countries and in establisning the term “Nordic larp” to describe the progressive approach to larp that dominates the Nordic scene.
-
-## Organizers
-
-### Book team
-
-Any and all questions, ideas and pitches can be directed to knutebook@gmail.com.
-
-- Linn Carin Andreassen
-- Simon Brind
-- Grethe Sofie Bulterud Strand
-- Martine Svanevik
-
-## Contact
-
-- General
-- Week in Norway
-- Programming
-- Open Space
-- Book Team
