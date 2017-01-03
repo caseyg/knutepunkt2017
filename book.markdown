@@ -4,17 +4,19 @@ date: 2016-11-01 23:52:00 Z
 position: 3
 ---
 
-Knutebook 2017: “20 years of telling stories”
+{% include book.html %}
+
+## Knutebook 2017: “20 years of telling stories”
 
 Once Upon a Time …
 
 Twenty years is a very long time. Long enough for legends to be created. Stories are told and retold and grow with each telling. The very act of telling a story goes in and out of fashion. Some believe that it has no place in larp, others that the whole point of larp is to make every single character the protagonist. This year we would like to sit down in a comfortable chair and have a word with ourselves about stories.
 
-Concept:
+### Concept:
 
 The 2017 Knutepunkt book will look primarily at stories in larp. We’d like to interrogate the process of writing larps. We’d like to understand whether narrative is a dirty word. We want to investigate how larp storytelling can be translated into a political act. We want to look at how we tell stories in larp, how we write them, play them, steer them, shape them and report them. And we want to know what we might do with all of this in the future.
 
-The book will contain three sections:
+### The book will contain three sections:
 
 Yesterday – larps that have been run and techniques we have used in the past; looking back over 20 years of KP and 30+ years of larp
 Today – analysis of contemporary methods, cutting edge meta-techniques, really awesome games
@@ -33,15 +35,12 @@ The full articles should be between 1,000 – 5,000 words. Feel free to add illu
 
 Timeline:
 
-15.07.16 Deadline for pitches
-
-31.07.16 Accepted pitches will be assigned an editor
-
-01.09.16 First Draft
-
-01.11.16 Final draft
-
-01.12.16 Book goes to print
+| -------- | --- |
+| 15.07.16 | Deadline for pitches |
+| 31.07.16 | Accepted pitches will be assigned an editor |
+| 01.09.16 | First Draft |
+| 01.11.16 | Final draft |
+| 01.12.16 | Book goes to print |
 
 Interested?
 

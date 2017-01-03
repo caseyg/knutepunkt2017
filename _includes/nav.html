@@ -1,39 +1,39 @@
-<nav class="navbar navbar-fixed-bottom">
-  <div class="container-fluid mx-2">
-    <div class="row">
-      <div class="col-xs-12 col-sm-5 col-md-4">
-        <h1><a href="/" class="logo">Knutepunkt 2017</a></h1>
+<div class="container-fluid mx-2 text-xs-center">
+  <div class="row">
+    <div class="{% if title | slugify != "home" %}col-xs-12{% endif %}">
+      <h1><a href="/" class="logo">Knutepunkt 2017</a></h1>
+      <p>February 23-26, 2017 &bull; Oslo, Norway</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <div class="outline bg-white pv4">
+        <strong><a href="/info/">Info</a></strong>
+        <ul class="list-unstyled">
+          <li><a href="/info/organizers/">Organizers</a></li>
+          <li><a href="/info/contact/">Contact</a></li>
+        </ul>
       </div>
-      <div class="col-xs-4 offset-sm-1 offset-md-2 col-sm-2">
-        <div class="outline bg-white pv4">
-          <strong><a href="/info/">Info</a></strong>
-          <ul class="list-unstyled">
-            <li><a href="/info/#vision">Essence of Knutepunkt</a></li>
-            <li><a href="/info/#organizers">Organizers</a></li>
-            <li><a href="/info/#contact">Contact</a></li>
-          </ul>
-        </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <div class="outline bg-white pv4">
+        <strong><a href="/conference/">Conference</a></strong>
+        <ul class="list-unstyled">
+          <li><a href="/conference/program/">Program</a></li>
+          <li><a href="/conference/time-labyrinth/">Time Labyrinth</a></li>
+          <li><a href="/conference/the-totem/">The Totem</a></li>
+          <li><a href="/conference/week-in-norway/">Week in Norway</a></li>
+          <li><a href="/conference/tickets-and-payment/">Tickets and Payment</a></li>
+        </ul>
       </div>
-      <div class="col-xs-4 col-sm-2">
-        <div class="outline bg-white pv4">
-          <strong><a href="/conference/">Conference</a></strong>
-          <ul class="list-unstyled">
-            <li><a href="/conference/program/">Program</a></li>
-            <li><a href="/conference/">Time Labyrinth</a></li>
-            <li><a href="/conference/">The Totem</a></li>
-            <li><a href="/conference/week-in-norway/">Week in Norway</a></li>
-            <li><a href="/conference/tickets-and-payment/">Tickets and Payment</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-xs-4 col-sm-2">
-        <div class="outline bg-white pv4">
-          <strong><a href="/book/">Book</a></strong>
-          <ul class="list-unstyled">
-            <li><a href="/book/#call-for-papers">Call for Papers</a></li>
-          </ul>
-        </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <div class="outline bg-white pv4">
+        <strong><a href="/book/">Book</a></strong>
+        <ul class="list-unstyled">
+          <li><a href="/book/#call-for-papers">Call for Papers</a></li>
+        </ul>
       </div>
     </div>
   </div>
-</nav>
+</div>

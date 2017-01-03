@@ -5,10 +5,6 @@
 
 body {
   min-height: 101vh;
-  padding-bottom:50vh;
-//  margin-bottom: 100vh;
-//  color: #fff;
-
   background: -moz-linear-gradient(-45deg, $serenity 0%, $rosequartz 100%);
   background: -webkit-linear-gradient(-45deg, $serenity 0%, $rosequartz 100%);
   background: linear-gradient(135deg, $serenity 0%, $rosequartz 100%);
@@ -38,9 +34,6 @@ h6 {
 
 nav {
   color: #000;
-  background-color: rgba(255, 255, 255, .15);
-  -webkit-backdrop-filter: blur(20px);
-  backdrop-filter: blur(15px);
   line-height: 1;
 }
 
@@ -65,11 +58,12 @@ h2 {
   background-size: contain;
   background-repeat: no-repeat;
   background-color: transparent;
-  background-blend-mode: darken;
+  mix-blend-mode: screen;
 
   display: block;
   text-indent: -2000em;
   overflow: hidden;
+
 }
 
 img {
@@ -78,4 +72,139 @@ img {
 
 img.header_image {
   width: 100%;
+}
+
+#home {
+  background: $greenery;
+}
+
+#book {
+  background: #222;
+  p, table {color: $rosequartz;}
+
+  h1,h2,h3,h4,h5,h6 {
+    color: $serenity!important;
+  }
+
+  .logo {
+    mix-blend-mode: screen;
+  }
+  img {
+    mix-blend-mode: screen;
+  }
+}
+
+.book-background {
+  background: -moz-linear-gradient(-45deg, $serenity 0%, $rosequartz 100%);
+  background: -webkit-linear-gradient(-45deg, $serenity 0%, $rosequartz 100%);
+  background: linear-gradient(135deg, $serenity 0%, $rosequartz 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$serenity', endColorstr='$rosequartz',GradientType=1 );
+  padding: 50px;
+}
+
+.box-wrap {
+  width: 176px;
+  height: 250px;
+  position: relative;
+  margin: 0 auto 40px;
+  -webkit-perspective: 1200px;
+     -moz-perspective: 1200px;
+       -o-perspective: 1200px;
+          perspective: 1200px;
+}
+
+#box {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  -webkit-transform-style: preserve-3d;
+     -moz-transform-style: preserve-3d;
+       -o-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transition: -webkit-transform 1s;
+     -moz-transition: -moz-transform 1s;
+       -o-transition: -o-transform 1s;
+          transition: transform 1s;
+}
+
+#box figure {
+  display: block;
+  position: absolute;
+  border: 2px solid black;
+  line-height: 250px;
+  font-size: 90px;
+  text-align: center;
+  font-weight: bold;
+  background-size: contain;
+}
+
+#box .front,
+#box .back {
+  width: 176px;
+  height: 250px;
+}
+
+#box .right,
+#box .left {
+  width: 50px;
+  height: 250px;
+}
+
+#box .top,
+#box .bottom {
+  width: 176px;
+  height: 50px;
+  line-height: 50px;
+}
+
+#box .front  {
+  background-image: url(/img/book-cover-transparent.png);
+  -webkit-transform: translateZ( 25px );
+     -moz-transform: translateZ( 25px );
+       -o-transform: translateZ( 25px );
+          transform: translateZ( 25px );
+}
+#box .back   {
+  background-image: url(/img/book-cover-transparent.png);
+  -webkit-transform: rotateX( -360deg ) translateZ(  -25px );
+     -moz-transform: rotateX( -360deg ) translateZ(  -25px );
+       -o-transform: rotateX( -360deg ) translateZ(  -25px );
+          transform: rotateX( -360deg ) translateZ(  -25px );
+}
+#box .right {
+  background-color: #000;
+  -webkit-transform: rotateY(   90deg ) translateZ( 150px );
+     -moz-transform: rotateY(   90deg ) translateZ( 150px );
+       -o-transform: rotateY(   90deg ) translateZ( 150px );
+          transform: rotateY(   90deg ) translateZ( 150px );
+}
+#box .left {
+  background-color: #000;
+  -webkit-transform: rotateY(  -90deg ) translateZ( 25px );
+     -moz-transform: rotateY(  -90deg ) translateZ( 25px );
+       -o-transform: rotateY(  -90deg ) translateZ( 25px );
+          transform: rotateY(  -90deg ) translateZ( 25px );
+}
+#box .top {
+  background-color: #000;
+  -webkit-transform: rotateX(   90deg ) translateZ( 25px );
+     -moz-transform: rotateX(   90deg ) translateZ( 25px );
+       -o-transform: rotateX(   90deg ) translateZ( 25px );
+          transform: rotateX(   90deg ) translateZ( 25px );
+}
+#box .bottom {
+  background-color: #000;
+  -webkit-transform: rotateX(  -90deg ) translateZ( 225px );
+     -moz-transform: rotateX(  -90deg ) translateZ( 225px );
+       -o-transform: rotateX(  -90deg ) translateZ( 225px );
+          transform: rotateX(  -90deg ) translateZ( 225px );
+}
+
+@keyframes spin {
+	from { transform: rotateY(0); }
+	to { transform: rotateY(360deg); }
+}
+
+#box {
+	animation: spin 5s infinite linear;
 }

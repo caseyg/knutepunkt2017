@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% if page.header_image %}<img src="{{page.header_image}}" class="img-fluid header_image">{% endif %}
+
+<nav class="navbar">
+  {% include nav.html %}
+</nav>
+
+{% if page.hide_title != true %}
+  <div class="container-fluid mt-1 mx-2">
+    <div class="row">
+      <h1 class="col-xs-12">{{page.title}}</h1>
+    </div>
+  </div>
+{% endif %}
+
+<div class="container mt-1">
+  <div class="row">
+    <div class="col-xs-12">
+      {{content}}
+    </div>
+  </div>
+</div>
