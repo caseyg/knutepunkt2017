@@ -6,7 +6,7 @@ position: 4
 
 {% include book.html %}
 
-## Knutebook 2017: “20 years of telling stories”
+## Knutebook 2017: 20 years of playing stories
 
 Once Upon a Nordic larp…
 
