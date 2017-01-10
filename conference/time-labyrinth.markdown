@@ -8,7 +8,7 @@ position: 1
 
 We want you to explore time and space through the labyrinth of larp.
 Dress to impress and to show us your inner time traveler!
-Do you miss your character from That Larp and want to be them again? 
+Do you miss your character from That Larp and need the perfect excuse to be them one more time? 
 Are you a star from the silent movies era? 
 Were you ever stranded in time amongst cavemen?
 Is the future a dystopic wasteland?
