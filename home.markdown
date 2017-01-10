@@ -10,10 +10,10 @@ layout: home
 
 Welcome to Knutepunkt!
 
-Knutepunkt is a conference about Nordic larp where we explore how experiences are created through different forms of larp design.
+Knutepunkt is a conference about Nordic larp where we explore how experiences are created through larp design. 
 
-Larp designers, players, and designers from other fields interested in how the larp can be used, are very welcome to participate and contribute to the program.
+KP 2017 marks the 20 year anniversary for Knutepunkt as the center of the Nordic larp discourse. 
 
-The event is helt at Mastemyr Quality hotel just outside Oslo on February 23-26. The first round of tickets (Professional and Crowdfunding) will be released on July 1st 2016 at 4pm CET, and the sign-up for Regular and Subsidized tickets is open from September 23rd to September 30th 2016.
+Tickets are on sale until jan. 20th. 
 
 /The KP2017 team
