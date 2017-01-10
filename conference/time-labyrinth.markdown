@@ -8,10 +8,11 @@ position: 1
 
 We want you to explore time and space through the labyrinth of larp.
 Dress to impress and to show us your inner time traveler!
-Are you a star from the silent movies era?
+Do you miss your character from That Larp and want to be them again? 
+Are you a star from the silent movies era? 
 Were you ever stranded in time amongst cavemen?
 Is the future a dystopic wasteland?
-Or did “Barbarella”  get it right, and the people of the future dress in plastic and tin foil
+Or did “Barbarella”  get it right, and the people of the future dress in plastic and tin foil?
 
 Pick your favorite historical era, larp character, or futuristic vision, and show us where and when you belong. Anything is allowed – both real and imaginary time and space.
 

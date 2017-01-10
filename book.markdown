@@ -1,51 +1,58 @@
 ---
-title: Book
+title: Week in Norway
 date: 2016-11-01 23:52:00 Z
 position: 3
 ---
 
-{% include book.html %}
+## Week in Norway
 
-## Knutebook 2017: “20 years of telling stories”
+When?
+The official program for Week-In begins Monday February 20th. In addition, there will be possibilities for socializing in the weekend of 17-19th. For those interested in taking part in something coordinated in this period, please contact Jørn at [slemdal@gmail.com](slemdal@gmail.com.). The program will be updated continuously, so drop by every now and then to get the latest additions!
 
-Once Upon a Time …
+Where?
+A Week In Norway will have its main hangout-area at Kampen Bydelshus, [a 30-minute walk from Oslo central station](https://www.google.no/maps/dir/Oslo+Central+Station,+Jernbanetorget,+Oslo/Kampen+Bydelshus+andelslag,+B%C3%B8gata+21,+0655+Oslo/@59.9126138,10.7566982,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46416e8a1c253d39:0x6d69efbe96e850d2!2m2!1d10.7524574!2d59.911096!1m5!1m1!1s0x46416e5767c2b7ff:0xb44a130a202f4fc7!2m2!1d10.7810057!2d59.9137332!3e2?hl=en). Here, there will be snacks, coffee and tea available, as well as a selection of roleplaying- and boardgames. We will also provide a “menu” of tourist stops and other activities that can be done in Oslo during this period. Some of these might cost money, but there will always be something to do for free, as well. We hope that you want to come and socialize with us, in addition to joining the rest of the program for Week-In!
 
-Twenty years is a very long time. Long enough for legends to be created. Stories are told and retold and grow with each telling. The very act of telling a story goes in and out of fashion. Some believe that it has no place in larp, others that the whole point of larp is to make every single character the protagonist. This year we would like to sit down in a comfortable chair and have a word with ourselves about stories.
+Can I join?
+Yes, of course you can! Please [fill out this form](https://docs.google.com/forms/d/1zMKcmWgIxj--lMlbdVFyiSJRZCnVkv1DxXOCHDsoOIM/viewform?edit_requested=true), so we know that you’re coming.
 
-### Concept:
+Program: Monday 20th
+12:00 – The hangout opens at Kampen Bydelshus.
 
-The 2017 Knutepunkt book will look primarily at stories in larp. We’d like to interrogate the process of writing larps. We’d like to understand whether narrative is a dirty word. We want to investigate how larp storytelling can be translated into a political act. We want to look at how we tell stories in larp, how we write them, play them, steer them, shape them and report them. And we want to know what we might do with all of this in the future.
+17:00 – Larp: Screwing the crew (queer edition).
+Organizers: Trine Lise Lindahl, Elin Nilsen and Tor Kjetil Edland
 
-### The book will contain three sections:
+“Screwing the crew is a larp about an open-minded group of friends. They go way back, and a lot of them have been in relationships. Open relationships are the norm rather than monogamous ones. This is the story of the friends today, with flashbacks played out during the larp to give a backstory.
 
-Yesterday – larps that have been run and techniques we have used in the past; looking back over 20 years of KP and 30+ years of larp
-Today – analysis of contemporary methods, cutting edge meta-techniques, really awesome games
-Tomorrow – possible futures, new ideas, wild-eyed dreaming
-We are looking for a multitude of texts for the different sections, both theoretical and practical, opinion pieces with rebuttals, even tidbits, anecdotes and small verses connected to character stories.
+The larp has been run several times before across the world, but this time there’s a twist: For Week-In there will be two runs, one for female-identifying players, and one for male. What happens when a queer circle of friends meet for a dinner party and old rivalries and love rekindles?”
+(sign-up coming!)
 
-You do not have to be an academic, a writer nor an experienced larper to contribute. We encourage everyone who has an idea to contact us; we would love to hear from you.
+19:00 – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
 
-## Call for Papers
+Program: Tuesday 21st
+09:00 – Edularp conference at Furuset bibliotek & aktivitetshus
+(sign-up coming!) NOTE: This is mostly for those of you who work in professions where larp might be a useful tool. There will be an alternate social program based out of Kampen Bydelshus at the same time.
 
-How to contribute:
+15:00 – Larp: In Residency
+Organizer: Lizzie Stark
 
-We want to make sure we get a good balance of content and articles, so the first thing we need from you is a description of your idea (or an abstract). Send us your idea in 150-300 words with a pitch of what you would like to write.
+“In Residency is a short, live action [American Freeform](http://leavingmundania.com/2013/11/18/introducing-american-freeform/) game for 10-16 players about the relationship between trauma and art, and about the weird atmosphere of artists’ colonies, where intensely personal daily work rubs up against a claustrophobic cocktail-party environment at night. Brython: it’s where we’re all alone together.
 
-The full articles should be between 1,000 – 5,000 words. Feel free to add illustrations, photos and the like. Bring what you have to the table and we’ll help with editing and to fit it into the book.
+For residents at this elite artists’ colony, Brython represents the chance to live full time as their most secret selves, ignoring everything but their sacred drive to elevate the soul through art. By day, they make art in the beautiful surroundings of a fully staffed mansion, transforming their dark pasts into beauty. By night, they live in a fishbowl of observation and unresolved sexual tension. Will they overcome impostor syndrome to work on the projects they said they would? Will their off-colony relationship survive? Or will it all degenerate into Bacchanalia?”
+(sign-up coming!)
 
-Timeline:
+19:00 – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
 
-| -------- | --- |
-| 15.07.16 | Deadline for pitches |
-| 31.07.16 | Accepted pitches will be assigned an editor |
-| 01.09.16 | First Draft |
-| 01.11.16 | Final draft |
-| 01.12.16 | Book goes to print |
+Program: Wednesday 22nd
+09:00 (and onwards) – Hangout at Kampen Bydelshus.
 
-Interested?
+12:00 – Larp: Playing the Cards (Skam edition!)
 
-Get in touch! We will discuss your idea and help develop it if we can. Start writing. The sooner we have a pitch from you, the sooner we can fit it into the narrative.
+“Play the Cards is a larp about being a teenager, about fitting in, and about knowing your place in the hierarchy. You’re in high school; you know who you are, what your social position is and, most importantly, who you want to be. This is your first real house party. No parents. It’s the important party where everyone shows up and anything might happen.
 
-Know anyone who should be writing?
+The gist of this larp is to give the players the opportunity to re-live both the good and bad feelings of their teen years, to see the situation from different perspectives and most of all: to remember when emotions and the small events of everyday teen life were the most important things in the whole wide world.
 
-Feel free to share this call with your friends. Maybe you have a great idea for an article but you aren’t the person to write it? Get in touch with us, we may be able to help!
+[Skam!](http://skam.p3.no/) The playstyle will be based on what is seen in the Norwegian TV-series. If you haven’t watched it, don’t despair – there will be a workshop beforehand. Some characters will be merged with persons from the show, and there will be plenty of opportunity for SMS-gaming.”
+
+19:00 – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre).
+
+Afterwards: Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017. 
