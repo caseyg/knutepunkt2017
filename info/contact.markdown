@@ -7,8 +7,13 @@ position: 2
 ## Contact
 
 knutebook@gmail.com (book)
+
 kpprogram2017@gmail.com (program)
+
 slemdal@gmail.com (week)
+
 partyknutepunkt@gmail.com (party)
+
 marnielsen@gmail.com (tickets)
+
 anemarie.anderson@gmail.com (general)
