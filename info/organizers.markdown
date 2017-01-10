@@ -39,11 +39,3 @@ position: 2
 - Aina Dakoue Skjønnsfjell
 - Leif Amund Lie
 
-## Contact
-
-knutebook@gmail.com (book)
-kpprogram2017@gmail.com (program)
-slemdal@gmail.com (week)
-marnielsen@gmail.com (tickets)
-anemarie.anderson@gmail.com (general)
-
