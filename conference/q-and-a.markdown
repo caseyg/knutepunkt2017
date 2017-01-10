@@ -13,6 +13,8 @@ Mastemyr Quality Hotel, just outside of Oslo, Norway. The adress is Lienga 11, 1
 ## How to get there?
 The local buses to the conference venue leaves from a bus stop within walking distance from the central station, and stops right outside the hotel. Bus 83 (towards Tårnåsen) usually leaves twice every hour, and the ticket is 52 kroner (please remember to bring cash, or to buy your ticket before getting on the bus).
 
+For more info on travel in Oslo, [check out this guide. ](http://knutepunkt.siteleaf.net/week/getting-around-in-oslo/)
+
 If you arrive by car, there is a big, free parking space right outside the hotel. For those of you arriving to Oslo by plane, the easiest often cheapest option will be to fly to Oslo Airport Gardermoen. From there you can take the local or airport express train to Oslo central station.
 
 ## How do I get a ticket?
