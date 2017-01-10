@@ -56,4 +56,4 @@ The gist of this larp is to give the players the opportunity to re-live both the
 
 19:00 – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre).
 
-Afterwards: Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017. 
+Afterwards: Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017.
