@@ -1,7 +1,7 @@
 ---
 title: Book
 date: 2016-11-01 23:52:00 Z
-position: 4
+position: 3
 ---
 
 {% include book.html %}
