@@ -33,7 +33,7 @@ position: 2
 - Aina Dakoue Skjønnsfjell
 - Leif Amund Lie
 
-# Book
+## Book
 
 - Linn Carin Andreassen
 - Simon Brind
