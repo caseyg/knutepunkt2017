@@ -1,6 +1,7 @@
 ---
 title: Getting around in Oslo
 date: 2017-01-10 18:45:00 Z
+position: 5
 ---
 
 ## PUBLIC TRANSPORT IN AND AROUND OSLO
