@@ -1,7 +1,7 @@
 ---
 title: Time Labyrinth
 date: 2016-11-01 23:50:00 Z
-position: 2
+position: 1
 ---
 
 ## Saturday night grand party

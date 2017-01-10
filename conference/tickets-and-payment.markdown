@@ -1,7 +1,7 @@
 ---
 title: Tickets & Payment
 date: 2016-11-01 23:50:00 Z
-position: 1
+position: 3
 ---
 
 Regular tickets costs 2600 kr. You can also buy Crowdfunding tickets for 3700 kr and Professional tickets for 3900 kr. If you buy such a ticket, you make available one subsidized ticket for somebody with less money.
