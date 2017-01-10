@@ -1,7 +1,7 @@
 ---
 title: Info
 date: 2016-11-01 23:48:00 Z
-position: 2
+position: 1
 ---
 
 <p class="lead">Knutepunkt is an international conference about larp held in Norway on February 23-26. 2017 just outside of Oslo. The conference is a participatory meeting place for larp designers and players who want to learn from and contribute to the ongoing Nordic larp discourse.</p>
