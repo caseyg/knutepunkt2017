@@ -4,16 +4,14 @@ date: 2016-11-01 23:51:00 Z
 position: 2
 ---
 
-## Contact
+### knutebook@gmail.com (book)
 
-knutebook@gmail.com (book)
+### kpprogram2017@gmail.com (program)
 
-kpprogram2017@gmail.com (program)
+### slemdal@gmail.com (week)
 
-slemdal@gmail.com (week)
+### partyknutepunkt@gmail.com (party)
 
-partyknutepunkt@gmail.com (party)
+### marnielsen@gmail.com (tickets)
 
-marnielsen@gmail.com (tickets)
-
-anemarie.anderson@gmail.com (general)
+### anemarie.anderson@gmail.com (general)
