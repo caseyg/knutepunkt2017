@@ -22,13 +22,6 @@ position: 2
 
 - Torun Hegre
 
-## Book
-
-- Linn Carin Andreassen
-- Simon Brind
-- Grethe Sofie Bulterud Strand
-- Martine Svanevik
-
 ## Party
 
 - Katrin Førde
@@ -39,4 +32,11 @@ position: 2
 - Jørn Slemdal
 - Aina Dakoue Skjønnsfjell
 - Leif Amund Lie
+
+# Book
+
+- Linn Carin Andreassen
+- Simon Brind
+- Grethe Sofie Bulterud Strand
+- Martine Svanevik
 
