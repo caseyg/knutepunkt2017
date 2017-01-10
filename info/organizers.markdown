@@ -8,6 +8,7 @@ position: 2
 
 - Ane Marie Anderson
 - Karete Jacobsen Meland
+- Martin Nielsen
 
 ## Program
 
