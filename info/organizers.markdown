@@ -4,7 +4,7 @@ date: 2016-11-01 23:51:00 Z
 position: 2
 ---
 
-## Leadership
+## Main organizers
 
 - Ane Marie Anderson
 - Karete Jacobsen Meland
@@ -17,6 +17,7 @@ position: 2
 - Gaute Våje
 - Marion Bræstrup Løsnes
 - Magnar Grønvik Müller
+- Frida Sofie Jansen
 
 ## On-site info
 
@@ -35,8 +36,9 @@ position: 2
 
 ## Book
 
+- Martine Svanevik
 - Linn Carin Andreassen
 - Simon Brind
 - Grethe Sofie Bulterud Strand
-- Martine Svanevik
+- Elin Nilsen
 
