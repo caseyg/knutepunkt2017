@@ -2,6 +2,8 @@
 title: The Totem
 date: 2016-11-01 23:51:00 Z
 position: 2
+redirect_from:
+  - /call-for-program/the-totem/
 ---
 
 This is Norway. We are creating a totem of Knutepunkt. The totem will be sacrificed to the great gods of larp to bring prosperous creative times for another 20 years of storymaking.

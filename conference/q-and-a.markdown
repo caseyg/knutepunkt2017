@@ -2,6 +2,8 @@
 title: Questions answered
 date: 2017-01-10 18:20:00 Z
 position: 4
+redirect_from:
+  - /practical/
 ---
 
 ## When?
@@ -35,7 +37,7 @@ We will allow for parents to bring very young children/babies. Please contact us
 You can join A Week-In Norway! Three days with free and curated program for you to enjoy, explore Oslo and socialize with other Knutepunkt-goers.
 
 ## How can I contribute to the conference?
-The call for program and the call for articles are both closed. The best way to contribute, is to bring an open mind and whole heartedly participate in the Knutepunkt experience as it goes along. 
+The call for program and the call for articles are both closed. The best way to contribute, is to bring an open mind and whole heartedly participate in the Knutepunkt experience as it goes along.
 
 ## Can I volunteer?
-The conference itself is not currently searching for volunteers. 
+The conference itself is not currently searching for volunteers.
