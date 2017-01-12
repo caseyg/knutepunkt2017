@@ -2,14 +2,16 @@
 title: Time Labyrinth
 date: 2016-11-01 23:50:00 Z
 position: 1
+redirect_from:
+- "/call-for-program/the-time-labyrinth/"
 ---
 
 ## Saturday night grand party
 
 We want you to explore time and space through the labyrinth of larp.
 Dress to impress and to show us your inner time traveler!
-Do you miss your character from That Larp and need the perfect excuse to be them one more time? 
-Are you a star from the silent movies era? 
+Do you miss your character from That Larp and need the perfect excuse to be them one more time?
+Are you a star from the silent movies era?
 Were you ever stranded in time amongst cavemen?
 Is the future a dystopic wasteland?
 Or did “Barbarella”  get it right, and the people of the future dress in plastic and tin foil?
