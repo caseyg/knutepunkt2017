@@ -3,7 +3,7 @@ title: Time Labyrinth
 date: 2016-11-01 23:50:00 Z
 position: 1
 redirect_from:
-  - /call-for-program/the-time-labyrinth/
+- "/call-for-program/the-time-labyrinth/"
 ---
 
 ## Saturday night grand party
