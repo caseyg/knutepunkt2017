@@ -9,6 +9,7 @@ Field name:
 
 **12:00** – The hangout opens at Kampen Bydelshus.
 
+
 **17:00** – Larp: Screwing the crew (queer edition).
 Organizers: Trine Lise Lindahl, Elin Nilsen and Tor Kjetil Edland
 
@@ -27,6 +28,7 @@ The larp has been run several times before across the world, but this time there
 **09:00** – Edularp conference at Furuset bibliotek & aktivitetshus
 (sign-up coming!) NOTE: This is mostly for those of you who work in professions where larp might be a useful tool. There will be an alternate social program based out of Kampen Bydelshus at the same time.
 
+
 **15:00** – Larp: In Residency
 Organizer: Lizzie Stark
 
@@ -38,6 +40,7 @@ For residents at this elite artists’ colony, Brython represents the chance to 
  for In Residency
 
 
+
 **19:00** – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
 
 
@@ -45,6 +48,7 @@ For residents at this elite artists’ colony, Brython represents the chance to 
 ## Program: Wednesday 22nd
 
 **09:00** (and onwards) – Hangout at Kampen Bydelshus.
+
 
 **12:00** – Larp: Playing the Cards (Skam edition!) [Event page](https://www.facebook.com/events/923617007774135/)
 
@@ -57,6 +61,8 @@ The gist of this larp is to give the players the opportunity to re-live both the
 
 [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSftbwjfJLtJQEUTlNthtzeWhq3eG-uegjZkFskncCdVdhWtRA/viewform?c=0&w=1) for Playing the Cards, Skam Edition!
 
+
 **19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre).
+
 
 **Afterwards:** Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017.
