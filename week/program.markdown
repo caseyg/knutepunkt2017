@@ -6,7 +6,6 @@ Field name:
 ---
 
 ## Program: Monday 20th
-<br>
 
 **12:00** – The hangout opens at Kampen Bydelshus.
 
@@ -19,9 +18,8 @@ The larp has been run several times before across the world, but this time there
 (sign-up coming!)
 
 **19:00** – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
-
+<br>
 ### Program: Tuesday 21st
-
 
 
 **09:00** – Edularp conference at Furuset bibliotek & aktivitetshus
@@ -38,13 +36,13 @@ For residents at this elite artists’ colony, Brython represents the chance to 
 
 
 
-19:00 – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
-
+**19:00** – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
+<br>
 ### Program: Wednesday 22nd
 
 **09:00** (and onwards) – Hangout at Kampen Bydelshus.
 
-**12:00** – Larp: Playing the Cards (Skam edition!)
+**12:00** – Larp: Playing the Cards (Skam edition!) [Event page](https://www.facebook.com/events/923617007774135/)
 
 “Play the Cards is a larp about being a teenager, about fitting in, and about knowing your place in the hierarchy. You’re in high school; you know who you are, what your social position is and, most importantly, who you want to be. This is your first real house party. No parents. It’s the important party where everyone shows up and anything might happen.
 
@@ -52,9 +50,8 @@ The gist of this larp is to give the players the opportunity to re-live both the
 
 [Skam!](http://skam.p3.no/) The playstyle will be based on what is seen in the Norwegian TV-series. If you haven’t watched it, don’t despair – there will be a workshop beforehand. Some characters will be merged with persons from the show, and there will be plenty of opportunity for SMS-gaming.”
 
-[Event page](https://www.facebook.com/events/923617007774135/)
 
-Sign-up for Playing the Cards, Skam Edition!(https://docs.google.com/forms/d/e/1FAIpQLSftbwjfJLtJQEUTlNthtzeWhq3eG-uegjZkFskncCdVdhWtRA/viewform?c=0&w=1)
+[Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSftbwjfJLtJQEUTlNthtzeWhq3eG-uegjZkFskncCdVdhWtRA/viewform?c=0&w=1) for Playing the Cards, Skam Edition!
 
 **19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre).
 
