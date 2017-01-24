@@ -18,7 +18,9 @@ The larp has been run several times before across the world, but this time there
 (sign-up coming!)
 
 **19:00** – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
+
 <br>
+
 ### Program: Tuesday 21st
 
 
