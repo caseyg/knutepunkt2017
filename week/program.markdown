@@ -34,8 +34,8 @@ Organizer: Lizzie Stark
 
 For residents at this elite artists’ colony, Brython represents the chance to live full time as their most secret selves, ignoring everything but their sacred drive to elevate the soul through art. By day, they make art in the beautiful surroundings of a fully staffed mansion, transforming their dark pasts into beauty. By night, they live in a fishbowl of observation and unresolved sexual tension. Will they overcome impostor syndrome to work on the projects they said they would? Will their off-colony relationship survive? Or will it all degenerate into Bacchanalia?”
 
-[Sign-up for In Residency](https://docs.google.com/forms/d/e/1FAIpQLSfUbYJpXrc_U5f2FrNrIeseURXX67EEdwaT9OndEukuWSbGxQ/viewform?c=0&w=1)
-
+[Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSfUbYJpXrc_U5f2FrNrIeseURXX67EEdwaT9OndEukuWSbGxQ/viewform?c=0&w=1)
+ for In Residency
 
 
 **19:00** – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
