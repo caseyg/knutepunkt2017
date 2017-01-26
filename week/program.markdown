@@ -16,7 +16,10 @@ Organizers: Trine Lise Lindahl, Elin Nilsen and Tor Kjetil Edland
 “Screwing the crew is a larp about an open-minded group of friends. They go way back, and a lot of them have been in relationships. Open relationships are the norm rather than monogamous ones. This is the story of the friends today, with flashbacks played out during the larp to give a backstory.
 
 The larp has been run several times before across the world, but this time there’s a twist: For Week-In there will be two runs, one for female-identifying players, and one for male. What happens when a queer circle of friends meet for a dinner party and old rivalries and love rekindles?”
-(sign-up coming!)
+
+[Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSekSH2G9MdxzMSLIYs2tQICYAhrKNe5P0GFZbIrdKLagejKQw/viewform) for all female run.
+
+[Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSeiMmIlMcZNOjnOee3fI2BVZ-FopLw5ES4ly2rVcngYQqTBcg/viewform) for all male run.
 
 **19:00** – Larp café at Kampen Bydelshus! There will be talks, entertainment, and general socializing.
 
