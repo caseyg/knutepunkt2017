@@ -7,6 +7,15 @@ Field name:
 
 ## Program: Monday 20th
 
+**11:00-23:00** - Interaction | Unfinished
+Interaction | Unfinished is a one-day event on interaction in arts, larp and entertainment.
+
+During daytime, they host a series of creators of interactive pieces, who in 15 minutes will tell their story about an idea that became a piece. 
+
+In the afternoon, some of the pieces will be showcased, either in full or as a shorter showcase version.
+
+Facebook page [here](https://www.facebook.com/events/463324170722158/?active_tab=about).
+
 **12:00** – The hangout opens at Kampen Bydelshus.
 
 
