@@ -7,8 +7,8 @@ Field name:
 
 ## Program: Monday 20th
 
-**11:00-23:00** - Interaction | Unfinished
-Interaction | Unfinished is a one-day event on interaction in arts, larp and entertainment.
+**11:00-23:00** - Interaction - Unfinished
+Interaction - Unfinished is a one-day event on interaction in arts, larp and entertainment.
 
 During daytime, they host a series of creators of interactive pieces, who in 15 minutes will tell their story about an idea that became a piece. 
 
