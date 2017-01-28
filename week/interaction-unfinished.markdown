@@ -22,20 +22,20 @@ February 20th, Kulturhuset Lab, Youngstorget 3, Oslo
 
 ## Program
 
-The Dinner Party
+**The Dinner Party**
 
 “Parmiddagen (The Dinner Party) was a six episode drama broadcast by Sveriges Radio. And a larp. Online listeners could download a script with the same starting point and the same characters. And then create their own story. The radio show was created with inspiration from larp-methods. 
 
 Anna-Karin Linder will tell the story of how the process behind the writing and how the show came to be.”
 
 
-Larping into a museum
+**Larping into a museum**
 
 “In January 2017 the Finnish Museum of Games opened. Unlike most game museums around the world, this does not include just digital games, but also board games, card games, even role-playing games. Indeed, it is the first one to include even larp in its collection.
 
 Listen to Jakko Stenros telling the story and philosophy behind the newly opened museum.”
 
-Open movement concert
+**Open movement concert**
 
 “A movement experiment stretching over artforms where we celebrate human expressions through improvisation. 
 
