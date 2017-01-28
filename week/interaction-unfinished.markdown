@@ -4,7 +4,7 @@ date: 2017-01-28 21:08:00 Z
 position: 2
 ---
 
-##What is Interaction | Unfinished?
+## What is Interaction | Unfinished?
 
 Interaction | Unfinished is a one-day event on interaction in arts, larp and entertainment.
 
@@ -12,15 +12,15 @@ Daytime, we have short stories told by creators of interactive pieces
 
 Nighttime, we have "tasting pieces" where you can experience or more interactive pieces
 
-##When and where?
+## When and where?
 
 February 20th, Kulturhuset Lab, Youngstorget 3, Oslo
 
-##Tickets?
+## Tickets?
 
 [Free, but you need to reserve some. ](https://billetto.no/en/events/interaction-unfinished/)Please don't do so if you are not planning an coming. 
 
-##Program
+## Program
 
 The Dinner Party
 
