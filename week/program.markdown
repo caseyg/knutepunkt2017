@@ -14,6 +14,8 @@ During daytime, they host a series of creators of interactive pieces, who in 15 
 
 In the afternoon, some of the pieces will be showcased, either in full or as a shorter showcase version.
 
+[Program items are launched continuously.](http://knutepunkt.org/week/interaction-unfinished/)
+
 Facebook page [here](https://www.facebook.com/events/463324170722158/?active_tab=about).
 
 **12:00** – The hangout opens at Kampen Bydelshus.
