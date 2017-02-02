@@ -13,7 +13,13 @@ February 23-26th 2017. Knutepunkt will begin on Thursday 23rd with check-in from
 Mastemyr Quality Hotel, just outside of Oslo, Norway. The adress is Lienga 11, 1410 Kolbotn. It is possible to contact the hotel to book extra nights, but we recommend that you consider staying closer to the city center if you plan on attending a Week in Norway.
 
 ## How to get there?
-The local buses to the conference venue leaves from a bus stop within walking distance from the central station, and stops right outside the hotel. Bus 83 (towards Tårnåsen) usually leaves twice every hour, and the ticket is 52 kroner (please remember to bring cash, or to buy your ticket before getting on the bus).
+The local buses to the conference venue leaves from a bus stop within walking distance from the central station, and stops right outside the hotel. Bus 83 (towards Tårnåsen) usually leaves twice every hour, and the ticket is 52 kroner.
+
+It's also possible to go by Bus 80E to Åsbråten (NOK 32) if you don't mind a 7-10 minute walk on a small trail trough the forest. This option is not recomended if you have heavy luggage or are not fit for walking a small forest trail. Please also avoid this option if there is heavy snowfall before Knutepunkt.
+
+**Please remember to bring cash, or to buy your ticket before getting on the bus! We recommend downloading the Ruter app for ticket purchase. Onboard the bus you can only pay in cash and the tickets are more expensive.**
+
+
 
 For more info on travel in Oslo, [check out this guide. ](http://knutepunkt.siteleaf.net/week/getting-around-in-oslo/)
 
