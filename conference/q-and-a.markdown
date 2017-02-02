@@ -17,7 +17,7 @@ The local buses to the conference venue leaves from a bus stop within walking di
 
 It's also possible to go by Bus 80E to Åsbråten (NOK 32) if you don't mind a 7-10 minute walk on a small trail trough the forest. This option is not recomended if you have heavy luggage or are not fit for walking a small forest trail. Please also avoid this option if there is heavy snowfall before Knutepunkt.
 
-**Please remember to bring cash, or to buy your ticket before getting on the bus! We recommend downloading the Ruter app for ticket purchase. Onboard the bus you can only pay in cash and the tickets are more expensive.**
+**Please remember to bring cash, or to buy your ticket before getting on the bus! [We recommend downloading the Ruter app for ticket purchase. ](https://ruter.no/en/buying-tickets/mobile-ticket-app/)Onboard the bus you can only pay in cash and the tickets are more expensive.**
 
 
 
