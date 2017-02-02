@@ -44,6 +44,6 @@ A single ticket to Mastemyr Hotell costs NOK 52.
 
 If you have a valid weekly pass for Oslo, a add-on ticket to Mastemyr Hotell costs NOK 20.
 
-If you want to save som money, you can also take the slower bus 80E to Åsbråten. The hotel is a 7 minute walk from here, and you have to walk on a small trail through a forest, so this option is not recommended if there is heavy snow, if you have lots of luggage or if you have trouble walking on small trails.
+It's also possible to go by Bus 80E to Åsbråten (NOK 32) if you don't mind a 7-10 minute walk on a small trail trough the forest. This option is not recomended if you have heavy luggage or are not fit for walking a small forest trail. Please also avoid this option if there is heavy snowfall before Knutepunkt.
 
 A ticket costs NOK 32 with the 80E bus. This bus is free of charge if you have a weekly pass for Oslo.
