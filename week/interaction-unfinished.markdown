@@ -4,6 +4,8 @@ date: 2017-01-28 21:08:00 Z
 position: 2
 ---
 
+![i_u_program.jpg](/uploads/i_u_program.jpg)
+
 ## What is Interaction | Unfinished?
 
 Interaction | Unfinished is a one-day event on interaction in arts, larp and entertainment.
