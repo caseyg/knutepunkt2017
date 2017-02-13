@@ -30,7 +30,7 @@ In the afternoon, some of the pieces will be showcased, either in full or as a s
 	Del av Laivdagene / Del av Interaction | Unfinished
 	Deichmanske Bibliotek, Grünerløkka
 	(Bar open throughout and after the concert)
-[Program items are launched continuously.](http://knutepunkt.org/week/interaction-unfinished/)
+[More information here.](http://knutepunkt.org/week/interaction-unfinished/)
 
 Facebook page [here](https://www.facebook.com/events/463324170722158/?active_tab=about).
 
