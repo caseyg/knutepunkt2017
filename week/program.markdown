@@ -12,8 +12,24 @@ Interaction - Unfinished is a one-day event on interaction in arts, larp and ent
 
 During daytime, they host a series of creators of interactive pieces, who in 15 minutes will tell their story about an idea that became a piece. 
 
-In the afternoon, some of the pieces will be showcased, either in full or as a shorter showcase version.
+In the afternoon, some of the pieces will be showcased, either in full or as a shorter showcase version. All program items are also open for those who have not attended the talks as long as there's room.
 
+17:00	Video installation: The Zeigarnik Effect by Brody Condon
+	Kulturhuset (boksen), Youngstorget
+
+18:30	Larp: Art Larp Art by Hanne Grasmo
+	Kulturhuset (lab), Youngstorget
+
+18:30/20:00	Immersive experience: The 8th Palace by Cesar Alvarez and Nina Runa Essendrop
+	Øvingshotellet, Schous plass
+
+19:00	Workshop: Goddess of the Night by Nyxx / Albin Werle
+	Deichmanske Bibliotek, Grünerløkka
+
+21:30	Open movement concert: Lo Ersare
+	Del av Laivdagene / Del av Interaction | Unfinished
+	Deichmanske Bibliotek, Grünerløkka
+	(Bar open throughout and after the concert)
 [Program items are launched continuously.](http://knutepunkt.org/week/interaction-unfinished/)
 
 Facebook page [here](https://www.facebook.com/events/463324170722158/?active_tab=about).
