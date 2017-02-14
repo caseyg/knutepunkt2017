@@ -6,77 +6,104 @@ position: 2
 
 ## What is Interaction | Unfinished?
 
+
 Interaction | Unfinished is a one-day event on interaction in arts, larp and entertainment.
 
 Daytime, we have short stories told by creators of interactive pieces
 
 Nighttime, we have "tasting pieces" where you can experience or more interactive pieces
 
+
 ## When and where?
 
 February 20th, Kulturhuset Lab, Youngstorget 3, Oslo
+
 
 ## Tickets?
 
 [Free, but you need to reserve some. ](https://billetto.no/en/events/interaction-unfinished/)Please don't do so if you are not planning an coming.
 
+
 ## Program
 
 All stories are at Kulturhuset Lab. The experiences are at different venues. See below for a description of the individual stories/experiences, [chech out our facebook event](https://www.facebook.com/events/463324170722158/?active_tab=discussion), or [just have a look at our flyer](https://scontent.fosl1-1.fna.fbcdn.net/v/t31.0-8/16587278_868280689978687_4498679615767086451_o.jpg?oh=a4a3e191c1509faf8b1c0977d8df6385&oe=593A3250). 
 
+
 ## Short Stories
+
 Opening: Why interaction? - Martin Nielsen
+
 The Dinner Party - Anna Karin Linder
+
 The Art Brain - Magnar Grønvik Müller
 
+
 Collectively Creating Interaction - Albin Werle
+
 Pretending to be homeless - Yauheniya Siadova
+
 Help! It's a laiv! - Mona Solhaug and Trine Falch
 
+
 Larping Into a Museum - Jaakko Stenros
+
 Lions vs Children - Assalah Zagha
+
 The Lowland Clearances - James Harper
 
+
 Getting Americans to Touch Each Other - Johanna Koljonen and Bjarke Pedersen
+
 Musical Theater of the Future - César Alvarez
+
 
 ## Experiences
 
 If enough space, we will admit people not participating at Interaction | Unfinished to the experiences.
 
+
 17:00-19:00 @ Kulturhuset, Boksen (drop-in)
+
 The Zeigarnic Effect by Brody Condon
 
+
 18:30-20:00 @ Kulturhuset, Lab (drop-in)
+
 Art Larp Art by Hanne Grasmo
 
+
 18:30 and 20:00 @ Øvingshotellet
+
 The 8th Palace by Nina Runa Essendrop and Cesar Alvarez
 
+
 19:30-21:00 @ Deichmanske Grünerløkka (drop-in)
+
 The Goddess of the Night by Albin Werle / Nyxxx
 
+
 21:30-late @ Deichmanske Grünerløkka
+
 Open Movement Concert - Lo Ersare
 Bar open throughout and after the concert
 
 ## More about the program items
 
-**THE DINNER PARTY**
-Anna Karin Linder
+**THE DINNER PARTY - Anna Karin Linder**
 
 In 2016 Swedish Radio broadcast the radio drama The Dinner Party. Three couples celebrated New Years together – an evening ending in disaster. The fiction was improvised on site in a Stockholm apartment, scripted as a larp for 6 players. And the show told one story. But listeners can download the script for the larp, the characters and the instructions and re-tell the story, creating their own drama.
 
 Anna-Karin Linder is the game designer who created the framework The Dinner Party unfolded within. At Interaction | Unfinished she will tell the story of how the show was created.
 
-**THE ART BRAIN**
-Magnar Grønvik Müller
+
+**THE ART BRAIN - Magnar Grønvik Müller**
+
 
 **COLLECTIVELY CREATING INTERACTION**
 Albin Werle
 
-**PLAYING WITH THE CITY**
-Yauheniya Siadova
+
+**PLAYING WITH THE CITY - Yauheniya Siadova**
 
 How does your city look at you? When you smile at strangers, when you ask them for a sigarette or what the time is, will it look at you in another way if you are dressed and behaving differently than you normally do? 
 
@@ -86,10 +113,11 @@ We Are Citizens is a larp that was created by Yauheniya Siadova, Sasha Franskevi
 Do you know where and what you will eat during the day? 
 
 Not everyone does. What would it be like for you, to walk a day in their shoes?
+
 To try experiencing how your city looks at you differently?”
 
-**HELP, IT’S A LAIV!**
-Mona Solhaug and Trine Falch
+
+**HELP, IT’S A LAIV! - Mona Solhaug and Trine Falch**
 
 Help, it’s a laiv! was a performance/larp hybrid located at the main stage of the National Theatre in Oslo during Monsters of Reality/Ibsen Festival. Actors, larpers, extras, audience and members of the Red Cross participated in a fictional emergency situation.
 
@@ -97,8 +125,7 @@ We are trapped inside a room that the bourgeoisie built to stage their problems,
 
 Help, it’s a laiv was initiated by the group formerly known as Publikum. Trine Falch and Mona Solhaug belong to the experimental theatre scene, with background in i.a. the performance collective Baktruppen.
 
-**LARPING INTO A MUSEUM**
-Jaakko Stenros
+**LARPING INTO A MUSEUM - Jaakko Stenros**
 
 In January 2017 the Finnish Museum of Games opened. Unlike most game museums around the world, this does not include just digital games, but also board games, card games, even role-playing games. Indeed, it is the first one to include even larp in its collection. Learn the story and philosophy behind the newly opened museum.
 
@@ -106,8 +133,8 @@ Jaakko Stenros (PhD) is a game and play researcher at the Game Research Lab (Uni
 
 He is currently working on understanding and documenting adult play and uncovering the aesthetics of social play, but his research interests include norm-defying play, role-playing games, pervasive games, and playfulness. His work has received many awards, most recently a prize for the best dissertation of the year at the University of Tampere.
 
-**LIONS VS CHILDREN**
-Assalah Zagha
+
+**LIONS VS CHILDREN - Assalah Zagha**
 
 Palestine is a complex society with a diverse population, with differences between tradition and progression increasing, all under the marginalization of communities in the shadow of oppression. Armed with the story about a hungry lion and a group of resourceful animals, Palestinian larpers have introduced larp as a way of creating meeting spaces for children from marginalized areas to interact with both each other and others in ways they normally would not.
 
@@ -115,8 +142,8 @@ Palestine is a complex society with a diverse population, with differences betwe
 
 Assalah Zagha is a Palestinian interpreter and translator who works in development and politics, as well as an activist in the youth activities in Palestine. She entered the Palestinian larp scene two years ago, to make a difference in the Palestinian community in a unique way.
 
-**THE LOWLAND CLEARANCES**
-Jamie Harper
+
+**THE LOWLAND CLEARANCES - Jamie Harper**
 
 Early 2016 Jamie Harper presented a larp at Camden People's Theatre in London. The Lowland Clearances was about the changing landscape of the city and the political games that continue to shape it. 
 
@@ -130,8 +157,8 @@ In 2013 he received a Winston Churchill Trust Travelling Fellowship to study the
 MAKING AMERICANS TOUCH EACH OTHER
 Johanna Koljonen and Bjarke Pedersen
 
-**THE UNIVERSE IS A SMALL HAT**
-Cesar Alvarez
+
+**THE UNIVERSE IS A SMALL HAT - Cesar Alvarez**
 
 The American Theater is at a tipping point where emerging audiences are hungry for physically engaged, interactive, emergent and social theater. For years immersive theater pieces have sold out in New York, but many of those works only scratch the surface of what is possible in terms of player agency, integration of technology and meaningful interaction.
 
@@ -143,13 +170,16 @@ His musical FUTURITY received the 2016 Lucille Lortel Award for Outstanding Musi
 
 César is a Visiting Associate Professor at The University of the Arts in Philadelphia and the Artistic Director of Polyphone, a festival of the emerging musical at UArts. He is a graduate of Oberlin Conservatory and received his MFA at Bard College.
 
+
 **THE ZEIGARNIK EFFECT**
 Video installation - Brody Condon 
 @Kulturhuset, Boksen
 
+
 **ART LARP ART**
 Larp - Hanne Grasmo
 @Kulturhuset LAB
+
 
 **THE EIGHTH PALACE**
 Immersive Experience – Nina Runa Essendrop and Cesar Alvarez
