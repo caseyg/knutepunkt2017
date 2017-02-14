@@ -94,7 +94,7 @@ Bar open throughout and after the concert
 
 In 2016 Swedish Radio broadcast the radio drama The Dinner Party. Three couples celebrated New Years together – an evening ending in disaster. The fiction was improvised on site in a Stockholm apartment, scripted as a larp for 6 players. And the show told one story. But listeners can download the script for the larp, the characters and the instructions and re-tell the story, creating their own drama.
 
-Anna-Karin Linder is the game designer who created the framework The Dinner Party unfolded within. At Interaction|Unfinished she will tell the story of how the show was created.
+Anna-Karin Linder is the game designer who created the framework The Dinner Party unfolded within. She will tell the story of how the show was created.
 
 
 **THE ART BRAIN - Magnar Grønvik Müller**
