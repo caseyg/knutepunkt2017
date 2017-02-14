@@ -31,62 +31,58 @@ All stories are at Kulturhuset Lab. The experiences are at different venues. See
 
 ## Short Stories
 
-**Opening: Why interaction? - Martin Nielsen
 
-The Dinner Party - Anna Karin Linder
+**Opening: Why interaction? - Martin Nielsen**
 
-The Art Brain - Magnar Grønvik Müller**
+**The Dinner Party - Anna Karin Linder**
 
+**The Art Brain - Magnar Grønvik Müller**
 
+---
 
-**Collectively Creating Interaction - Albin Werle
+**Collectively Creating Interaction - Albin Werle**
 
-Pretending to be homeless - Yauheniya Siadova
+**Pretending to be homeless - Yauheniya Siadova**
 
-Help! It's a laiv! - Mona Solhaug and Trine Falch**
+**Help! It's a laiv! - Mona Solhaug and Trine Falch**
 
+---
 
+**Larping Into a Museum - Jaakko Stenros**
 
-**Larping Into a Museum - Jaakko Stenros
+**Lions vs Children - Assalah Zagha**
 
-Lions vs Children - Assalah Zagha
+**The Lowland Clearances - James Harper**
 
-The Lowland Clearances - James Harper**
+---
 
+**Getting Americans to Touch Each Other - Johanna Koljonen and Bjarke Pedersen**
 
-
-**Getting Americans to Touch Each Other - Johanna Koljonen and Bjarke Pedersen
-
-Musical Theater of the Future - César Alvarez**
+**Musical Theater of the Future - César Alvarez**
 
 
 ## Experiences
 
-If enough space, we will admit people not participating at Interaction | Unfinished to the experiences.
+If enough space, we will admit people not participating at Interaction | Unfinished to the experiences. 
 
 
 17:00-19:00 @ Kulturhuset, Boksen (drop-in)
-
 The Zeigarnic Effect by Brody Condon
 
 
 18:30-20:00 @ Kulturhuset, Lab (drop-in)
-
 Art Larp Art by Hanne Grasmo
 
 
 18:30 and 20:00 @ Øvingshotellet
-
 The 8th Palace by Nina Runa Essendrop and Cesar Alvarez
 
 
 19:30-21:00 @ Deichmanske Grünerløkka (drop-in)
-
 The Goddess of the Night by Albin Werle / Nyxxx
 
 
 21:30-late @ Deichmanske Grünerløkka
-
 Open Movement Concert - Lo Ersare
 Bar open throughout and after the concert
 
