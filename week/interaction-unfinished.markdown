@@ -171,18 +171,15 @@ His musical FUTURITY received the 2016 Lucille Lortel Award for Outstanding Musi
 César is a Visiting Associate Professor at The University of the Arts in Philadelphia and the Artistic Director of Polyphone, a festival of the emerging musical at UArts. He is a graduate of Oberlin Conservatory and received his MFA at Bard College.
 
 
-**THE ZEIGARNIK EFFECT**
-Video installation - Brody Condon 
+**THE ZEIGARNIK EFFECT - Video installation - Brody Condon**
 @Kulturhuset, Boksen
 
 
-**ART LARP ART**
-Larp - Hanne Grasmo
+**ART LARP ART - Larp - Hanne Grasmo**
 @Kulturhuset LAB
 
 
-**THE EIGHTH PALACE**
-Immersive Experience – Nina Runa Essendrop and Cesar Alvarez
+**THE EIGHTH PALACE - Immersive Experience – Nina Runa Essendrop and Cesar Alvarez**
 @Øvingshotellet, Schous plass
 
 This is the story of the beings who have yet to emerge. The slow expanding of their sensorium into awareness of themselves and the abundant energies that surround them. 
@@ -197,8 +194,7 @@ The Eighth Palace will be hosted during the evening, Monday February 20th, as a 
 
 Nina Runa Essendrop is a Danish larp designer with a strong focus on movement, sensory experiences and the meaning of physical action. She has a masters degree in theater, dance and performance studies, has designed and produced several blackbox larps, and in her work she is collaborating with several artists both in Europe and the United States.
 
-**THE GODDESS OF THE NIGHT**
-Workshop – Albin Werle
+**THE GODDESS OF THE NIGHT - Workshop – Albin Werle**
 @Deichmanske bibliotek, Grünerløkka
 
 “Our hands are the first part of our bodies that reach for the unknown. They make the world around us tangible and palpable. They are responsible for direct action and for gentle touch. They engage in the world and let us reach out and touch other’s hands. Nattens Gudinna (Goddess of the Night) is non-dramatic and game-like. 
@@ -211,8 +207,7 @@ Exploring the esthetics of interaction and asking how artists, activists and phi
 
 Nattens Gudinna (Goddess of the Night) is written to be performed in a traditional theatre institution. In their work, the art collective Nyxxx focus on utilizing non-hierarchical collaborations internally, and strive to invite the workers of the institution and the participants in the performance to take part in formulating its content.
 
-**OPEN MOVEMENT CONCERT**
-Concert – Lo Ersare
+**OPEN MOVEMENT CONCERT - Concert – Lo Ersare**
 @Deichmanske bibliotek, Grünerløkka
 
 “A movement experiment stretching over artforms where we celebrate human expressions through improvisation. 
