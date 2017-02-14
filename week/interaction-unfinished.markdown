@@ -62,7 +62,8 @@ Musical Theater of the Future - César Alvarez**
 
 ## Experiences
 
-If enough space, we will admit people not participating at Interaction | Unfinished to the experiences.
+If enough space, we will admit people not participating at Interaction | Unfinished to the experiences. 
+
 
 
 17:00-19:00 @ Kulturhuset, Boksen (drop-in)
