@@ -31,30 +31,33 @@ All stories are at Kulturhuset Lab. The experiences are at different venues. See
 
 ## Short Stories
 
-Opening: Why interaction? - Martin Nielsen
+**Opening: Why interaction? - Martin Nielsen
 
 The Dinner Party - Anna Karin Linder
 
-The Art Brain - Magnar Grønvik Müller
+The Art Brain - Magnar Grønvik Müller**
 
 
-Collectively Creating Interaction - Albin Werle
+
+**Collectively Creating Interaction - Albin Werle
 
 Pretending to be homeless - Yauheniya Siadova
 
-Help! It's a laiv! - Mona Solhaug and Trine Falch
+Help! It's a laiv! - Mona Solhaug and Trine Falch**
 
 
-Larping Into a Museum - Jaakko Stenros
+
+**Larping Into a Museum - Jaakko Stenros
 
 Lions vs Children - Assalah Zagha
 
-The Lowland Clearances - James Harper
+The Lowland Clearances - James Harper**
 
 
-Getting Americans to Touch Each Other - Johanna Koljonen and Bjarke Pedersen
 
-Musical Theater of the Future - César Alvarez
+**Getting Americans to Touch Each Other - Johanna Koljonen and Bjarke Pedersen
+
+Musical Theater of the Future - César Alvarez**
 
 
 ## Experiences
@@ -100,8 +103,7 @@ Anna-Karin Linder is the game designer who created the framework The Dinner Part
 **THE ART BRAIN - Magnar Grønvik Müller**
 
 
-**COLLECTIVELY CREATING INTERACTION**
-Albin Werle
+**COLLECTIVELY CREATING INTERACTION - Albin Werle**
 
 
 **PLAYING WITH THE CITY - Yauheniya Siadova**
