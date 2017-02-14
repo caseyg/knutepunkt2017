@@ -24,8 +24,7 @@ February 20th, Kulturhuset Lab, Youngstorget 3, Oslo
 
 All stories are at Kulturhuset Lab. The experiences are at different venues. See below for a description of the individual stories/experiences, [chech out our facebook event](https://www.facebook.com/events/463324170722158/?active_tab=discussion), or [just have a look at our flyer](https://scontent.fosl1-1.fna.fbcdn.net/v/t31.0-8/16587278_868280689978687_4498679615767086451_o.jpg?oh=a4a3e191c1509faf8b1c0977d8df6385&oe=593A3250). 
 
-### Short Stories
-
+## Short Stories
 Opening: Why interaction? - Martin Nielsen
 The Dinner Party - Anna Karin Linder
 The Art Brain - Magnar Grønvik Müller
@@ -41,7 +40,7 @@ The Lowland Clearances - James Harper
 Getting Americans to Touch Each Other - Johanna Koljonen and Bjarke Pedersen
 Musical Theater of the Future - César Alvarez
 
-### Experiences
+## Experiences
 
 If enough space, we will admit people not participating at Interaction | Unfinished to the experiences.
 
