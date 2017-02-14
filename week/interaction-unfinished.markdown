@@ -63,27 +63,28 @@ All stories are at Kulturhuset Lab. The experiences are at different venues. See
 
 ## Experiences
 
-If enough space, we will admit people not participating at Interaction | Unfinished to the experiences. 
+If enough space, we will admit people not participating at Interaction | Unfinished to the experiences.
 
+---
 
-17:00-19:00 @ Kulturhuset, Boksen (drop-in)
-The Zeigarnic Effect by Brody Condon
+**17:00-19:00 @ Kulturhuset, Boksen (drop-in): The Zeigarnic Effect by Brody Condon**
 
+---
 
-18:30-20:00 @ Kulturhuset, Lab (drop-in)
-Art Larp Art by Hanne Grasmo
+**18:30-20:00 @ Kulturhuset, Lab (drop-in): Art Larp Art by Hanne Grasmo**
 
+---
 
-18:30 and 20:00 @ Øvingshotellet
-The 8th Palace by Nina Runa Essendrop and Cesar Alvarez
+**18:30 and 20:00 @ Øvingshotellet: The 8th Palace by Nina Runa Essendrop and Cesar Alvarez**
 
+---
 
-19:30-21:00 @ Deichmanske Grünerløkka (drop-in)
-The Goddess of the Night by Albin Werle / Nyxxx
+**19:30-21:00 @ Deichmanske Grünerløkka (drop-in): The Goddess of the Night by Albin Werle / Nyxxx**
 
+---
 
-21:30-late @ Deichmanske Grünerløkka
-Open Movement Concert - Lo Ersare
+**21:30-late @ Deichmanske Grünerløkka: Open Movement Concert - Lo Ersare**
+
 Bar open throughout and after the concert
 
 
