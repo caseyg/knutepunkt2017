@@ -92,6 +92,13 @@ The gist of this larp is to give the players the opportunity to re-live both the
 [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSftbwjfJLtJQEUTlNthtzeWhq3eG-uegjZkFskncCdVdhWtRA/viewform?c=0&w=1) for Playing the Cards, Skam Edition!
 
 
+
+**13:00-16:00** - Playing with methods
+Deichmanske Library, Grünerløkka
+
+Playing with methods is a collaborative method for testing ideas, exercises or mechanics. The basic premiss is that we don't discuss ideas, we try them out and then evaluate. Everyone can bring ideas to be tested and everyone are free to elaborate on or taking the ideas in new directions. The event will be facilitated by Nina Runa Essendrop.
+
+
 **19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre).
 
 
