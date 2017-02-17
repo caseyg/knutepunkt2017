@@ -3,30 +3,14 @@
   <head>
     <title>{{page.title}} | {{site.title}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.title == "Program" %}
-      <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js"></script>
-      <script type="text/javascript" src='/js/sheetsee.js'></script>
-    {% endif %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/style.css">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/tabletop1.3.4.js"></script>
+    <script type="text/javascript" src='/js/sheetsee.js'></script>
   </head>
   <body id="{{page.title | slugify}}">
     {{content}}
   </body>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
-  {% if page.title == "Program" %}
-    <script type="text/javascript">
-      document.addEventListener('DOMContentLoaded', function() {
-          var URL = "1m99et3TDpMYJ8wBBqknzvhnGV6RXxtasZMkRd_grL2o"
-          Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
-      })
-      function showInfo(data) {
-        var tableOptions = {"data": data, "pagination": 10, "tableDiv": "#fullTable", "filterDiv": "#fullTableFilter"}
-        Sheetsee.makeTable(tableOptions)
-        Sheetsee.initiateTableFilter(tableOptions)
-      }
-    </script>
-
-  {% endif %}
 </html>

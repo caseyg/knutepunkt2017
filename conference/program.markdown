@@ -4,6 +4,8 @@ date: 2016-11-01 23:48:00 Z
 position: 0
 ---
 
+{% include schedule.html %}
+
 ## 20 years of telling stories
 
 KP2017 is the full circle 20th anniversary of Knutepunkt, and we are bringing the lovechild of larp all the way back where it started. We want to take the opportunity to glance back in the history of  Knutepunkt and Nordic larp to see what we have learned, what mistakes we made, and where we struck gold. We want to contemplate on the current situation and navigate through the landscape of ideas, events, trends and topics that we find ourselves in the middle of. And lastly, we want to look ahead and see where we might be heading in the future.
@@ -23,5 +25,3 @@ For questions or other use **[kpprogram2017@gmail.com](mailto:kpprogram2017@gmai
 //
 
 All that larpy love from the program committee
-
-{% include schedule.html %}
