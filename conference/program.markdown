@@ -23,3 +23,5 @@ For questions or other use **[kpprogram2017@gmail.com](mailto:kpprogram2017@gmai
 //
 
 All that larpy love from the program committee
+
+{% include schedule.html %}

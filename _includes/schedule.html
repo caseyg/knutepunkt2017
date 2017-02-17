@@ -1,0 +1,25 @@
+<input id="fullTableFilter" type="text" placeholder="filter by..">
+<div id="fullTable"></div>
+
+<script id="fullTable_template" type="text/html">
+  <table>
+    <tr>
+      <th>When</th>
+      <th class="tHeader">Where</th>
+      <th>Pitch</th>
+      <th class="tHeader">Host</th>
+    </tr>
+      {{#rows}}
+        <tr>
+          <td>{{day}} {{start}} - {{end}}</td>
+          <td>{{room}}</td>
+          <td>
+            <p><strong>{{format}}</strong></p>
+            <h2>{{title}}</h2>
+            {{pitch}}
+          </td>
+          <td>{{host}}</td>
+        </tr>
+      {{/rows}}
+  </table>
+</script>
