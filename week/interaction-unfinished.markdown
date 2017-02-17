@@ -16,7 +16,7 @@ Nighttime, we have "tasting pieces" where you can experience or more interactive
 
 ## When and where?
 
-February 20th, Kulturhuset Lab, Youngstorget 3, Oslo
+February 20th, Kulturhuset Lab, Youngstorget 3, Oslo. The program starts at 11:00, with talks ending around 16:30 and the pieces from 17:00 to around 23:00. 
 
 
 ## Tickets?
@@ -90,7 +90,7 @@ Bar open throughout and after the concert
 
 ## More about the program items
 
-**THE DINNER PARTY - Anna Karin Linder**
+**THE DINNER PARTY - Anna-Karin Linder**
 
 In 2016 Swedish Radio broadcast the radio drama The Dinner Party. Three couples celebrated New Years together – an evening ending in disaster. The fiction was improvised on site in a Stockholm apartment, scripted as a larp for 6 players. And the show told one story. But listeners can download the script for the larp, the characters and the instructions and re-tell the story, creating their own drama.
 
@@ -123,7 +123,7 @@ Help, it’s a laiv! was a performance/larp hybrid located at the main stage of 
 
 We are trapped inside a room that the bourgeoisie built to stage their problems, which always took place on stage. Nowadays the whole house seems staged and problems might pop up anywhere. When the problems reach the auditorium, the audience are no longer themselves.
 
-Help, it’s a laiv was initiated by the group formerly known as Publikum. Trine Falch and Mona Solhaug belong to the experimental theatre scene, with background in i.a. the performance collective Baktruppen.
+Help, it’s a laiv was initiated by the group formerly known as Publikum. Trine Falch, Mona Solhaug, BK Wallström belong to the experimental theatre scene, with background in i.a. the performance collective Baktruppen. 
 
 **LARPING INTO A MUSEUM - Jaakko Stenros**
 
