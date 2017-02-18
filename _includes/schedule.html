@@ -1,10 +1,10 @@
-<table class="sort table">
+<table class="sort table" style="width:100%">
   <thead>
     <tr>
       <th>#</th>
-      <th>Day / Time</th>
-      <th>Room</th>
-      <th>Program</th>
+      <th data-priority="2">Day / Time</th>
+      <th data-priority="3">Room</th>
+      <th data-priority="1">Program</th>
     </tr>
   </thead>
   <tbody>
@@ -28,11 +28,18 @@
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
 <script src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
   $('.sort').DataTable({
     "paging":   false,
-    "scrollCollapse": true
+    "scrollCollapse": true,
+    responsive: {
+        details: {
+            display: $.fn.dataTable.Responsive.display.childRowImmediate,
+            type: ''
+        }
+    }
   });
 });
 </script>
