@@ -10,7 +10,7 @@ schedule:
   room: Follosalen
   title: Opening ceremony
   format: Ritual
-  host: ''
+  host: 
   pitch: BE THERE!
 - id: 2
   day: Thu
@@ -19,7 +19,7 @@ schedule:
   room: Follosalen
   title: Keynotes
   format: Keynote
-  host: ''
+  host: 
   pitch: Remembering the past and where we came from, living in the now and looking
     into the future, we try to untangle the knots. Have we learned? Will we learn?
     What have we learned, and where will it bring us? Today's theme is PAST, and two
@@ -269,7 +269,7 @@ schedule:
   room: Follosalen
   title: Keynotes
   format: Keynote
-  host: ''
+  host: 
   pitch: Remembering the past and where we came from, living in the now and looking
     into the future, we try to untangle the knots. Have we learned? Will we learn?
     What have we learned, and where will it bring us?  Today's theme is PRESENT, and
@@ -780,8 +780,8 @@ schedule:
   room: Follosalen
   title: Party!!!
   format: Social
-  host: ''
-  pitch: ''
+  host: 
+  pitch: 
 - id: 60
   day: Fri
   start: '22:30'
@@ -884,7 +884,7 @@ schedule:
   room: Follosalen
   title: Keynotes
   format: Keynote
-  host: ''
+  host: 
   pitch: Remembering the past and where we came from, living in the now and looking
     into the future, we try to untangle the knots. Have we learned? Will we learn?
     What have we learned, and where will it bring us? Today's theme is FUTURE, and
@@ -1140,7 +1140,7 @@ schedule:
   title: 'My gaming history: Personal reflections on play'
   format: Panel
   host: Jaakko Stenros
-  pitch: ''
+  pitch: 
 - id: 87
   day: Sat
   start: '14:15'
@@ -1462,7 +1462,7 @@ schedule:
   room: Follosalen
   title: THE TIME LABYRINTH
   format: Social
-  host: ''
+  host: 
   pitch: Dress to impress and to show us your inner time traveler! Do you miss your
     character from That Larp and need the perfect excuse to be them one more time?
     Are you a star from the silent movies era? Were you ever stranded in time amongst
@@ -1613,16 +1613,16 @@ schedule:
     spontaneous nature of gameplay, real life dealings, love, family-relationships,
     and everyday life. And we may search for the magical meeting point between spontaneity
     and ritual.
-- id: ''
+- id: 
   day: Sun
   start: '13:00'
   end: '14:00'
   room: Follosalen
   title: ENDING CEREMONY
   format: Social
-  host: ''
+  host: 
   pitch: Be there!
-- id: ''
+- id: 
   day: Fri
   start: '14:15'
   end: '15:00'
@@ -1633,7 +1633,7 @@ schedule:
   pitch: |-
     Experiences are difficult to define because they are different for everyone.  One person might participate in a larp and have a transformative experience while another might experience no personal change or transformation at all.  Although both larp participants would say they had an experience, the
     person who experienced a transformation of their way of thinking might say they were changed in a more meaningful way.  This presentation discusses the potential of transformative experiences and how co-creation and principles of experience staging might facilitate a larp experience that results in a paradigm change of participants’ views, life perceptions, and behaviors.
-- id: ''
+- id: 
   day: Sat
   start: '13:15'
   end: '15:00'
@@ -1653,15 +1653,16 @@ schedule:
 
 KP2017 is the full circle 20th anniversary of Knutepunkt, and we are bringing the lovechild of larp all the way back where it started. We want to take the opportunity to glance back in the history of  Knutepunkt and Nordic larp to see what we have learned, what mistakes we made, and where we struck gold. We want to contemplate on the current situation and navigate through the landscape of ideas, events, trends and topics that we find ourselves in the middle of. And lastly, we want to look ahead and see where we might be heading in the future.
 
+You can read about the program items below!
+
 ## Newcomers and old farts are setting agenda
 
 We have a program of larps, workshops, panels, talks, rituals and good ideas, contributed by both the old and dusty and the young and bold. The program is both co-created by participants and curated by the program comittee to create a  a kick-ass anniversary program!
 
 ## Open space
 
-There will also be an open space opportunity, for experimental concepts, playful meetings and on-the-spot-ideas. We encourage you to air your plans to [kp17openspace@gmail.com](mailto:kp17openspace@gmail.com) , but you can also sign up on the spot. Nothing is set in stone until each open space session starts.
-
-Deadline was November 15th, but please, please, don’t wait until last minute. But, if you did, you an try your luck and **[submit your idea here](https://docs.google.com/forms/d/1ueqp3kgtp8Gx7Xp_kDxIcLCDKFBHeasU7cTW581iQJ4/viewform)**!  
+There will be an open space opportunity, for experimental concepts, playful meetings and on-the-spot-ideas. We encourage you to air your plans to [kp17openspace@gmail.com](mailto:kp17openspace@gmail.com) , but you can also sign up on the spot. Nothing is set in stone until each open space session starts.
+ 
 
 For questions or other use **[kpprogram2017@gmail.com](mailto:kpprogram2017@gmail.com)**
 
