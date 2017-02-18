@@ -267,9 +267,18 @@ img.header_image {
 	animation: spin 5s infinite linear;
 }
 
-/* Table */
+tr, .odd, .even {
+background-color: transparent!important;
+}
 
-table {text-align: left; width: 100%}
-th {padding: 10px 0px;}
-td, text {padding: 3px 20px 3px 0px; font-size: 14px;}
-.noMatches {margin-left: 20px; font-size: 11px; font-style: italic; visibility: hidden;}
+td, th {
+  border-color: #000!important;
+  color: #000;
+}
+td a:link, td a:visited {
+  color: #000;
+  text-decoration: none;
+}
+td a:hover {
+  text-decoration: underline;
+}

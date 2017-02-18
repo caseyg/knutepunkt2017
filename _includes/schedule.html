@@ -1,42 +1,38 @@
-<table>
-  <tr>
-    <th>When</th>
-    <th class="tHeader">Where</th>
-    <th>Pitch</th>
-    <th class="tHeader">Host</th>
-  </tr>
-  <div id="table_content"></div>
+<table class="sort table">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Day / Time</th>
+      <th>Room</th>
+      <th>Program</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for event in page.schedule %}
+    <tr id="{{event.id}}">
+      <td>{{event.id}}</td>
+      <td style="min-width:150px;">{{event.day}} {{event.start}} - {{event.end}}</td>
+      <td>{{event.room}}</td>
+      <td class="pb-2">
+        <p><strong>{{event.format}}</strong></p>
+        <h2 class="pt-0"><a href="{{page.url}}#{{event.id}}">{{event.title}}</a></h2>
+        {% if event.host != "" %}<em>{{event.host}}</em>{% endif %}
+        <hr>
+        {{event.pitch}}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
 
-<script id="event-template" type="text/x-handlebars-template">
-  <tr>
-    <td>{{day}} {{start}} - {{end}}</td>
-    <td>{{room}}</td>
-    <td>
-      <p><strong>{{format}}</strong></p>
-      <h2>{{title}}</h2>
-      {{pitch}}
-    </td>
-    <td>{{host}}</td>
-  </tr>
-</script>
-
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
+<script src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript">
-  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1m99et3TDpMYJ8wBBqknzvhnGV6RXxtasZMkRd_grL2o/pubhtml';
-
-  $(document).ready( function() {
-    Tabletop.init( { key: public_spreadsheet_url,
-                     callback: showInfo,
-                     parseNumbers: true } );
+$(document).ready(function(){
+  $('.sort').DataTable({
+    "paging":   false,
+    "scrollCollapse": true
   });
-
-  function showInfo(data, tabletop) {
-    var source   = $("#event-template").html();
-    var template = Handlebars.compile(source);
-
-    $.each( tabletop.sheets("pitcher").all(), function(i, event) {
-      var html = template(event);
-      $("#table_content").append(html);
-    });
-  }
+});
 </script>
