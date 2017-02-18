@@ -1,15 +1,17 @@
 <table class="sort table">
   <thead>
     <tr>
-      <th>When</th>
-      <th>Where</th>
-      <th>Pitch</th>
+      <th>#</th>
+      <th>Day / Time</th>
+      <th>Room</th>
+      <th>Program</th>
     </tr>
   </thead>
   <tbody>
     {% for event in page.schedule %}
     <tr id="{{event.id}}">
-      <td>{{event.day}} {{event.start}} - {{event.end}}</td>
+      <td>{{event.id}}</td>
+      <td style="min-width:150px;">{{event.day}} {{event.start}} - {{event.end}}</td>
       <td>{{event.room}}</td>
       <td class="pb-2">
         <p><strong>{{event.format}}</strong></p>
