@@ -218,7 +218,7 @@ schedule:
   format: Panel
   host: Charles Bo Nielsen, Sonja Schwarzenberger
   pitch: 'Star Wars? Harry Potter? Vampires and Cylons. Should we create our own universe
-    or use known franchises? Panel: Eirik Fatland, Sofie Falk, Anna Karin Linder,
+    or use known franchises? Panel: Eirik Fatland, Mia Häggström, Anna Karin Linder,
     Martin Ericsson (video documentation by Natascha Lerche)'
 - id: 19
   day: Fri
