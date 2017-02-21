@@ -76,7 +76,7 @@ For residents at this elite artists’ colony, Brython represents the chance to 
 
 ## Program: Wednesday 22nd
 
-**09:00** (and onwards) – Hangout at Kampen Bydelshus.
+**10:00** (and onwards) – Hangout at Kampen Bydelshus.
 
 
 **12:00** – Larp: Playing the Cards (Skam edition!) [Event page](https://www.facebook.com/events/923617007774135/)
@@ -97,8 +97,11 @@ Deichmanske Library, Grünerløkka
 
 Playing with methods is a collaborative method for testing ideas, exercises or mechanics. The basic premiss is that we don't discuss ideas, we try them out and then evaluate. Everyone can bring ideas to be tested and everyone are free to elaborate on or taking the ideas in new directions. The event will be facilitated by Nina Runa Essendrop.
 
+**18:00**
+Kampen Bydelshus closes! The Oslo public library is where we'll gather everyone. (See below).
 
-**19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre).
+
+**19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre - https://www.google.no/maps?q=deichman+hovedbibliotek&rls=com.microsoft:nb:%7Breferrer:source%7D&oe&gws_rd=ssl&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiSxOSy66DSAhUECSwKHZ_tCusQ_AUICSgC).
 
 
 **Afterwards:** Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017.
