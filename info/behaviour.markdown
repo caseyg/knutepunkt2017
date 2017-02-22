@@ -1,5 +1,5 @@
 ---
-title: Guideline for encouraged behaviour
+title: Guidelines for encouraged behaviour
 date: 2017-02-22 17:09:00 Z
 position: 0
 ---
