@@ -728,7 +728,7 @@ schedule:
     it? Ask for a new character? When is it okay to change a character? What effects,
     positive and negative, could it entail? Panel discussion with opposing views and
     ideals on the subject of loyalty to character. In the panel: Mike Pohjola, Michael
-    Gyr, Mimmi Lundkvist'
+    Gyr, Mimmi Lundkvist and Freja Gyldenstrøm'
 - id: 56
   day: Fri
   start: '19:15'
