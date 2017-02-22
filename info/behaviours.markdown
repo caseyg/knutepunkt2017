@@ -1,6 +1,7 @@
 ---
 title: Guideline for encouraged behaviours
 date: 2017-02-22 17:09:00 Z
+position: 0
 ---
 
 It’s not always easy being in a new place, or meeting a lot of new people at once. To make it a little easier for everyone, we have listed some suggestions for things you can do to help each other out having a good time at Knutepunkt.

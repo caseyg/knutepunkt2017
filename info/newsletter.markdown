@@ -1,6 +1,7 @@
 ---
 title: Newsletter
 date: 2017-02-17 18:12:00 Z
+position: 1
 ---
 
 Hello, dear Knutepunkt-travelers!
