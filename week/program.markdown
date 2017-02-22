@@ -101,7 +101,7 @@ Playing with methods is a collaborative method for testing ideas, exercises or m
 Kampen Bydelshus closes! The Oslo public library is where we'll gather everyone. (See below).
 
 
-**19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library (in the city centre - https://www.google.no/maps?q=deichman+hovedbibliotek&rls=com.microsoft:nb:%7Breferrer:source%7D&oe&gws_rd=ssl&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiSxOSy66DSAhUECSwKHZ_tCusQ_AUICSgC).
+**19:00** – [Nordic Larp Talks](https://nordiclarp.org/wiki/Nordic_Larp_Talks) at the Oslo public library [in the city centre](https://www.google.no/maps?q=deichman+hovedbibliotek&rls=com.microsoft:nb:%7Breferrer:source%7D&oe&gws_rd=ssl&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiSxOSy66DSAhUECSwKHZ_tCusQ_AUICSgC).
 
 
 **Afterwards:** Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017.
