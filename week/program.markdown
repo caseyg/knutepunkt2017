@@ -105,3 +105,4 @@ Kampen Bydelshus closes! The Oslo public library is where we'll gather everyone.
 
 
 **Afterwards:** Launch party for "Once upon a Nordic larp... 20 years of playing stories", Knutebook 2017.
+Bar closes at 23:00, we have to be out of the premises at 00:00
