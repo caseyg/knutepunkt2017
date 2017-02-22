@@ -37,6 +37,6 @@ Norwegian law applies at Knutepunkt. We will not accept failure to comply with N
 
 ---
 
-//Knutepunkt is a place where we come to meet, explore, create and discuss; where we want to be dead serious and crazy creative at the same time. It is a diverse melting pot, where people of (almost) all ages meet with others with different larp interests and traditions, identities, ethnicities, sexualities, and religious/political beliefs and backgrounds –– and where every community has its own cultures and social expectations. We urge you to respect each others ideas, views and boundaries; to take care of, and encourage each other.//
+_Knutepunkt is a place where we come to meet, explore, create and discuss; where we want to be dead serious and crazy creative at the same time. It is a diverse melting pot, where people of (almost) all ages meet with others with different larp interests and traditions, identities, ethnicities, sexualities, and religious/political beliefs and backgrounds –– and where every community has its own cultures and social expectations. We urge you to respect each others ideas, views and boundaries; to take care of, and encourage each other._
 
 ---
