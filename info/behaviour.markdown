@@ -26,11 +26,11 @@ When telling somebody that you would like them to change behaviour, try to be sp
 
 **If you are feeling unsafe or harassed**, it is usually best to work it out involved parties, even though this is often uncomfortable. If you are unable to do this, or if somebody does not leave you alone even after being asked to do so, we encourage you to leave the situation, and to seek out help from the organizers’ contact points for safety issues (please see below).
 
-Infodesk phone: 0047 486 15 692
-Trine Lise Lindahl: 0047 920 65 145
-Tor Kjetil Edland: 0047 915 42 680
-Karete Jacobsen Meland: 0047 970 09 110
-Martin Nielsen: 0047 482 80 495
+Infodesk phone: 0047 486 15 692  
+Trine Lise Lindahl: 0047 920 65 145  
+Tor Kjetil Edland: 0047 915 42 680  
+Karete Jacobsen Meland: 0047 970 09 110  
+Martin Nielsen: 0047 482 80 495  
 Ane Marie Anderson: 0047 99480248
 
 Norwegian law applies at Knutepunkt. We will not accept failure to comply with Norwegian law, including ruthless behaviour, or disregard of Knutepunkt’s own rules or directions.
