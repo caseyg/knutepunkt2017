@@ -1649,6 +1649,11 @@ schedule:
     part in both the smelling session and the workshop (our design depends on you!)
 ---
 
+Latest program information: 
+[Program Timeline](https://docs.google.com/spreadsheets/d/1fl8ZKmadupTAUhj6Y33u-P1mIfu4ZYHnObzog1l7tk8/edit#gid=634615394) (GDocs) • [Program Timeline](https://drive.google.com/file/d/0B5MaO58TFoDrS29CS1BxdlRsUzA/view) (PDF)
+
+(Some timings below may be out of date, see timeline doc for most current info.)
+
 ## 20 years of telling stories
 
 KP2017 is the full circle 20th anniversary of Knutepunkt, and we are bringing the lovechild of larp all the way back where it started. We want to take the opportunity to glance back in the history of  Knutepunkt and Nordic larp to see what we have learned, what mistakes we made, and where we struck gold. We want to contemplate on the current situation and navigate through the landscape of ideas, events, trends and topics that we find ourselves in the middle of. And lastly, we want to look ahead and see where we might be heading in the future.
