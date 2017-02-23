@@ -1649,11 +1649,16 @@ schedule:
     part in both the smelling session and the workshop (our design depends on you!)
 ---
 
-Latest information: 
+<center>
+<strong>Latest information</strong>
 
 <a class="btn btn-lg btn-primary" style="background-color:transparent;border-color:#222;color:#222;" href="https://docs.google.com/spreadsheets/d/1fl8ZKmadupTAUhj6Y33u-P1mIfu4ZYHnObzog1l7tk8/edit#gid=634615394">Program Timeline</a> <a class="btn btn-lg btn-primary" style="background-color:transparent;border-color:#222;color:#222;" href="https://drive.google.com/file/d/0B5MaO58TFoDrS29CS1BxdlRsUzA/view">Program Booklet (PDF)</a>
 
 <small>(Some timings below may be out of date, see timeline doc for most current info.)</small>
+</center>
+
+
+<hr>
 
 ## 20 years of telling stories
 
